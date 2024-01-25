@@ -14,3 +14,4 @@ docker-compose build
 ```
 docker-compose up
 ```
+Сборка занимает 2 минуты
